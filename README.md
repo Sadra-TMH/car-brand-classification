@@ -1,1 +1,1 @@
-# car-brand-detection
+# car-brand-classification
