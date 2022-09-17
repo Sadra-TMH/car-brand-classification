@@ -16,7 +16,7 @@ If you are not familiar with Google drive and Google colab, follow these instruc
 ## When google drive is opened, click on the NEW button on the top left side of the screen
 <img src="assets/guide1.jpg" alt="choose google drive" />
 
-## Choose Moقe and then choose Google Colaboratory from the list
+## Choose More and then choose Google Colaboratory from the list
 <img src="assets/guide2.jpg" alt="choose google drive" />
 
 ## In the new tab that is opened, click on the name and change it to "clone" (Not necessary)
