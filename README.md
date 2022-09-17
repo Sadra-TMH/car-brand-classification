@@ -10,7 +10,7 @@ so you should clone the repository in your google drive and change the path of t
 # Instruction to set up 
 If you are not familiar with Google drive and Google colab, follow these instructions to set up the repository and have it ready to run.<br>
 ## Login to your google account and open your drive from the apps menu.
-<img src="assets/guide0jpg.jpg" alt="choose google drive" />
+<img src="assets/guide0.jpg" alt="choose google drive" />
 ## When google drive is opened, click on the NEW button on the top left side of the screen
 <img src="assets/guide1.jpg" alt="choose google drive" />
 ## Choose Mode and then choose Google Colaboratory from the list
