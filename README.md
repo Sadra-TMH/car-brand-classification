@@ -7,3 +7,5 @@ A simple way of transfer learning is also applied to enhance the results.<br>
 ### **Note that the notebook is made to run in Google Colab**
 #### so you should clone the repository in your google drive and change the path of the 3rd cell in the notebook to the path of cloned repository in your drive.
 
+Here is an example of training images:<br>
+<img src="data/train/BMW/BMW_train(5).jpg" alt="BMW fron view" />
