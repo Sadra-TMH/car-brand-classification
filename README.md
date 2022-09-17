@@ -41,5 +41,5 @@ This will connect you to a runtime first and then run the cell.
 <img src="assets/guide5.jpg" alt="choose google drive" />
 
 ## You are all set!
-Now you only need to open the [car_brand_classification.ipynb](car_brand_classfication.ipynb) file in the cloned directory and run the cells one by one.<br>
+Now you only need to navigate to the [car_brand_classification.ipynb](car_brand_classfication.ipynb) file in the cloned directory, open it and run the cells one by one.<br>
 Don't worry, it has explanations too!
