@@ -14,13 +14,25 @@ If you are not familiar with Google drive and Google colab, follow these instruc
 <img src="assets/guide0.jpg" alt="choose google drive" />
 
 ## When google drive is opened, click on the NEW button on the top left side of the screen
-<img src="assets/guide1.jpg" alt="choose google drive" />
+<img src="assets/guide1.jpg" alt="Click the New button" />
 
-## Choose More and then choose Google Colaboratory from the list
-<img src="assets/guide2.jpg" alt="choose google drive" />
+## Choose More and then choose Google Colaboratory from the list.
+<img src="assets/guide2.jpg" alt="choose More" />
+
+## If you don't see Google Colaboratory, you should install it in your drive first.
+To do so, click on the **Connect more apps** option.
+<img src="assets/guide2.1.jpg" alt="Connect more apps" />
+
+## When **Google Workspaces Marketplace** is opened, search for Google Colaboratory and click on it.
+<img src="assets/guide2.2.jpg" alt="Google colaboratory" />
+
+## Click on the install button and give permissions if asked for.
+<img src="assets/guide2.3.jpg" alt="Install google colab" />
+
+## Now you can go to the 3rd step and choose Colaboratory from the list.
 
 ## In the new tab that is opened, click on the name and change it to "clone" (Not necessary)
-<img src="assets/guide3.jpg" alt="choose google drive" />
+<img src="assets/guide3.jpg" alt="Clone the repository" />
 
 ## Then copy the code below and paste it in the open cell.
 ```
@@ -35,10 +47,10 @@ It will mount Google Drive (give authentications if asked) and then change the d
 
 ## Click on the run button.
 This will connect you to a runtime first and then run the cell.
-<img src="assets/guide4.jpg" alt="choose google drive" />
+<img src="assets/guide4.jpg" alt="Connect to a runtime" />
 
 ## You should see an output such as picture bellow.
-<img src="assets/guide5.jpg" alt="choose google drive" />
+<img src="assets/guide5.jpg" alt="Check the output" />
 
 ## You are all set!
 Now you only need to navigate to the [car_brand_classification.ipynb](car_brand_classfication.ipynb) file in the cloned directory, open it and run the cells one by one.<br>
